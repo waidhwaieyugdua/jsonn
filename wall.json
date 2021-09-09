@@ -1,5 +1,5 @@
 [
-  {
+	{
 		"name": "3D 1",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/3D1.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/3D1T.jpg",
@@ -1082,7 +1082,7 @@
 	{
 		"name": "Dark 20",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/DARK20.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/DARK22T.jpg",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/DARK20T.jpg",
 		"collections": "Dark",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
@@ -1111,15 +1111,6 @@
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/MAT12.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/MAT12T.jpg",
 		"collections": "Material",
-		"dimensions": "1400 x 3020 px",
-		"copyright": "Personal Use Only",
-		"downloadable": false
-	},
-	{
-		"name": "Dark 23",
-		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/DARK23.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/DARK23T.jpg",
-		"collections": "Dark",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
