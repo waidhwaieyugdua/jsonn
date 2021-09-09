@@ -27,6 +27,15 @@
 		"downloadable": false
 	},
 	{
+		"name": "Minimal 28",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/20210417_124806_1630131805761.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/20210417_124806_1630131805761%400.3x.jpg",
+		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
 		"name": "Minimal 8",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/MIN8.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/MIN8T.jpg",
@@ -209,7 +218,7 @@
 	{
 		"name": "Gradient 5",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/GRAD5.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/GRADT.jpg",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/GRAD5T.jpg",
 		"collections": "Gradient",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
