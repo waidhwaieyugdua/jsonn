@@ -9,9 +9,72 @@
 		"downloadable": false
 	},
 	{
+		"name": "Dark 24",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/DARK24.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/DARK24T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 26",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/DARK26.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/DARK26T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Glass 1",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS1.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS1T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Glass 2",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS2.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS2T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Glass 3",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS3.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS3T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
 		"name": "Fluid 2",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/Fluid2.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/Fluid2T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 53",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/Fluid53.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/Fluid53T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 54",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/Fluid54.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/Fluid54T.jpg",
 		"collections": "Fluid",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
@@ -27,10 +90,37 @@
 		"downloadable": false
 	},
 	{
+		"name": "Glass 5",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS5.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS5T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
 		"name": "Minimal 28",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/20210417_124806_1630131805761.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/20210417_124806_1630131805761%400.3x.jpg",
 		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 57",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/Fluid57.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/Fluid57T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Glass 6",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS6.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS6T.jpg",
+		"collections": "Fluid",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
@@ -58,6 +148,24 @@
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/N1.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/N1T.jpg",
 		"collections": "Niagara",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Minimal 28",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/MIN28.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/MIN28T.jpg",
+		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 58",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/Fluid58.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/Fluid58T.jpg",
+		"collections": "Fluid",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
@@ -129,6 +237,15 @@
 		"name": "Niagara 12",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/N12.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/N12T.jpg",
+		"collections": "Niagara",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Niagara 14",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/N14.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/N14T.jpg",
 		"collections": "Niagara",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
@@ -225,10 +342,28 @@
 		"downloadable": false
 	},
 	{
+		"name": "Niagara 15",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/N15.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/N15T.jpg",
+		"collections": "Niagara",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
 		"name": "Gradient 22",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/GRAD22.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/GRAD22T.jpg",
 		"collections": "Gradient",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Niagara 16",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/N16.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/N16T.jpg",
+		"collections": "Niagara",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
@@ -336,6 +471,15 @@
 		"name": "Minimal 17",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/MIN17.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/MIN17T.jpg",
+		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Minimal 29",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/MIN29.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/MIN29T.jpg",
 		"collections": "Minimal",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
