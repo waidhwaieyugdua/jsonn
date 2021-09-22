@@ -45,24 +45,6 @@
 		"downloadable": false
 	},
 	{
-		"name": "Glass 3",
-		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS3.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS3T.jpg",
-		"collections": "Glass",
-		"dimensions": "1400 x 3020 px",
-		"copyright": "Personal Use Only",
-		"downloadable": false
-	},
-	{
-		"name": "Glass 4",
-		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS4.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS4T.jpg",
-		"collections": "Glass",
-		"dimensions": "1400 x 3020 px",
-		"copyright": "Personal Use Only",
-		"downloadable": false
-	},
-	{
 		"name": "Fluid 2",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/Fluid2.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/Fluid2T.jpg",
@@ -175,6 +157,24 @@
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/Fluid58.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/Fluid58T.jpg",
 		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Glass 3",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS3.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS3T.jpg",
+		"collections": "Glass",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Glass 4",
+		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS4.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS4T.jpg",
+		"collections": "Glass",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
